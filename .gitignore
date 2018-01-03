@@ -1,0 +1,5 @@
+*.pyc
+.ipynb_checkpoints
+data
+setup/fast-ai-commands.txt
+setup/fast-ai-remove.sh
