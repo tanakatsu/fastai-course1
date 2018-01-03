@@ -6,6 +6,7 @@ Contains modifications to work with keras 1.2.2 and sklearn 0.19.1 and to reprod
 
 ### some files that I added
 
+- `switch_keras_backend.sh`: change backends easily between theano and tensorflow
 - `convert_weights.ipynb`: create vgg16 pretrained weight file for tensorflow
 - `lesson1_tf.ipynb`: result of using tensorflow backend with original weight file
 - `lesson1_tf.fixed.ipynb`: result of using tensorflow backend with converted weight file
